@@ -5,7 +5,7 @@ layout: default
 # The team
 * Malcolm MacIver - Principal Investigator
 * Daniel Dombeck - Principal Investigator
-* German Espinosa ![[mail](assets/img/21_05.png)](mailto:germanespinosa@gmail.com) - Posdoctoral Researchers
+* German Espinosa [![email](/assets/img/mail.png 'email')](mailto:germanespinosa@gmail.com) - Posdoctoral Researchers
 * Chris Angeloni - Posdoctoral Researchers
 * Alex Lai - Ph.D. Student
 * Gabrielle Wink - Ph.D. Student
@@ -13,6 +13,7 @@ layout: default
 * Judith - Undergrad Student
 * Ben - Undergrad Student
 * Parker - Undergrad Student
+
 
 
 # Public datasets
