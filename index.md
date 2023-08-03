@@ -2,6 +2,20 @@
 layout: default
 ---
 
+# The team
+* German Espinosa
+* Alex Lai
+* Gabrielle Wink
+* Chris Angeloni
+
+# Public dataset
+1. [Mus Musculus in mid entropy environment (21_05)] (https://www.google.com)
+2. [Mus Musculus and Robot (aversive) in mid entropy environment (21_05)] (https://www.google.com)
+3. [Mus Musculus in open environment (00_00)] (https://www.google.com)
+4. [Peromyscus Maniculatus in mid entropy environment (21_05)] (https://www.google.com)
+5. [Peromyscus Maniculatus and Robot (aversive) in mid entropy environment (21_05)] (https://www.google.com)
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
