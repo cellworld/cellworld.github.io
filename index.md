@@ -47,7 +47,7 @@ display = cw.Display(world)
 plt.show()
 ```
 result:
-![world21_05](assests/img/21_05.png)
+![world21_05](assets/img/21_05.png)
 
 
 
