@@ -31,7 +31,7 @@ Python 3.6 or newer.
 
 ## Installation
 ```shell
-pip pinstall cellworld
+>> pip pinstall cellworld
 ```
 
 ## Examples
