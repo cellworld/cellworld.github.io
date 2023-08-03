@@ -38,6 +38,7 @@ pip pinstall cellworld
 ## Examples
 
 ### Opening a world from the library
+code:
 ```python
 import cellworld as cw
 import matplotlib.plyplot as plt
@@ -45,7 +46,8 @@ world = cw.World.get_from_parameters_names("hexagonal", "canonical", "21_05")
 display = cw.Display(world)
 plt.show()
 ```
-
+result:
+![world21_05](assests/img/21_05.png)
 
 
 
