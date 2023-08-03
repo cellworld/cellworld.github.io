@@ -3,17 +3,50 @@ layout: default
 ---
 
 # The team
-* German Espinosa
+## Principal Investigators
+* Malcolm MacIver
+* Daniel Dombeck
+## Posdoctoral Researchers
+* German Espinosa [email](mailto:germanespinosa@gmail.com)
+* Chris Angeloni
+## Ph.D. Students
 * Alex Lai
 * Gabrielle Wink
-* Chris Angeloni
+## Undergrads
+* Lily Browdy
+* Judith 
 
-# Public dataset
+
+# Public datasets
 1. [Mus Musculus in mid entropy environment (21_05)] (https://www.google.com)
 2. [Mus Musculus and Robot (aversive) in mid entropy environment (21_05)] (https://www.google.com)
 3. [Mus Musculus in open environment (00_00)] (https://www.google.com)
 4. [Peromyscus Maniculatus in mid entropy environment (21_05)] (https://www.google.com)
 5. [Peromyscus Maniculatus and Robot (aversive) in mid entropy environment (21_05)] (https://www.google.com)
+
+
+# The cellworld Library
+
+## Prerequisites
+Python 3.6 or newer.
+
+## Installation
+```shell
+pip pinstall cellworld
+```
+
+## Examples
+
+### Opening a world from the library
+```python
+import cellworld as cw
+import matplotlib.plyplot as plt
+world = cw.World.get_from_parameters_names("hexagonal", "canonical", "21_05")
+display = cw.Display(world)
+plt.show()
+```
+
+
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
