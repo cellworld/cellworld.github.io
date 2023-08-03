@@ -1,7 +1,5 @@
 title: cellworld
-description: A experimental platform for controllable, repeatable interactions, 
-within a space that can be varied from fully observable open arenas to partially 
-observable cluttered arenas, or configured into conventional assays.
+description: A experimental platform for controllable, repeatable interactions, within a space that can be varied from fully observable open arenas to partially observable cluttered arenas, or configured into conventional assays.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
