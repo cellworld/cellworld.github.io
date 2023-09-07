@@ -3,3 +3,6 @@ description: A experimental platform for controllable, repeatable animal-robot i
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
+robot_assembly_link: https://github.com/cellworld/robot_assembly
+robot_assembly_link_text: Robot Assembly
+
