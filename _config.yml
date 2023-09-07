@@ -5,4 +5,6 @@ google_analytics:
 theme: jekyll-theme-cayman
 robot_assembly_link: https://github.com/cellworld/robot_assembly
 robot_assembly_link_text: Robot Assembly
+arena_assembly_link: https://github.com/cellworld/arena_assembly
+arena_assembly_link_text: Arena Assembly
 
