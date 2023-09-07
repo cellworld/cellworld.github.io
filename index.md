@@ -3,16 +3,18 @@ layout: default
 ---
 
 # The team
-* Malcolm MacIver - Principal Investigator
-* Daniel Dombeck - Principal Investigator
-* German Espinosa - Posdoctoral Researchers
-* Chris Angeloni - Posdoctoral Researchers
-* Alex Lai - Ph.D. Student
-* Gabrielle Wink - Ph.D. Student
+* Dr. Malcolm MacIver - Principal Investigator
+* Dr. Daniel Dombeck - Principal Investigator
+* Dr. German Espinosa - Posdoctoral Researcher
+* Dr. Chris Angeloni - Posdoctoral Researcher
+* Alexander Lai - Ph.D. Candidate
+* Gabrielle Wink - Ph.D. Candidate
 * Lily Browdy - Undergrad Student
-* Judith - Undergrad Student
-* Ben - Undergrad Student
-* Parker - Undergrad Student
+* Judith Murciano - Undergrad Student
+* Benjamin Zitzewitz - Undergrad Student
+* Parker Ryan - Undergrad Student
+* Joe Reed - Undergrad Student
+* Joshua Chi - Undergrad Student
 
 # Public datasets
 1. [Mus Musculus in mid entropy environment (21_05)](https://www.google.com)
