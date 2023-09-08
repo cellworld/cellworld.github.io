@@ -3,7 +3,7 @@ layout: default
 ---
 # A robot-rodent interaction arena with adjustable spatial complexity for ethologically relevant behavioral studies
 
-This webpage serves as a dedicated platform for the associated research paper, providing essential information and resources.  Here, you will find comprehensive support materials, including experimental platform assembly instructions, figure code, and supplementary videos. 
+This webpage serves as a dedicated platform for the associated research paper, providing essential information and resources.  Here, you will find comprehensive support materials, including experimental platform assembly instructions, figure code, and supplementary movies. 
 
 ## Code to generate figures
 [Figure code](https://colab.research.google.com/drive/1EbFh44LEhl9npWPzdv3WODliqK4Q9_h3?usp=sharing)
@@ -14,7 +14,7 @@ This webpage serves as a dedicated platform for the associated research paper, p
 
 [Robot Assembly](https://github.com/cellworld/robot_assembly)
 
-## Supplementary Videos
+## Supplementary Movies
 
 [SM1](https://drive.google.com/drive/u/0/folders/1wH3VsdWOeWc_PXIToa9uanlwF_mSJ81q): Movie of the aversive airpuff sequence, termed ``attack'' event, delivered by the airpuff module. Green timer in background to illustrate event duration.\
 [SM2](https://drive.google.com/drive/u/0/folders/1pMLhaBUBCCgpP3fxhqoOymh2Okf2BOyR): Movie of FMM13 fleeing from the robot following an prey enters arena'' experiment event is triggered and the robot begins autonomous motion. Cyan dot indicates the mouse's location.\
