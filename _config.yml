@@ -3,9 +3,9 @@ description: A experimental platform for controllable, repeatable animal-robot i
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
-robot_assembly_link: https://github.com/cellworld/robot_assembly
-robot_assembly_link_text: Robot Assembly
-arena_assembly_link: https://github.com/cellworld/arena_assembly
-arena_assembly_link_text: Arena Assembly
+# robot_assembly_link: https://github.com/cellworld/robot_assembly
+# robot_assembly_link_text: Robot Assembly
+# arena_assembly_link: https://github.com/cellworld/arena_assembly
+# arena_assembly_link_text: Arena Assembly
 paper_link: paper.html
-paper_link_text: Methods paper website
+paper_link_text: Cellworld Methods Paper
