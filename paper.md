@@ -36,7 +36,7 @@ This webpage serves as a dedicated platform for the associated research paper, p
 (3, frames 463--801) provoking the robot to pursue.\
 (4–-5, frames 802--1006) This retreat-pursue cycle repeats until\
 (6, frames 1007--1190) the robot is close to the start gate, allowing the mouse to outmaneuver the robot.\
-[SM16](https://drive.google.com/drive/u/0/folders/1O285nNpevaEXUKaPw6Jg7GdOMaOPt_h6): Movie showing an example peeking event.\ 
+[SM16](https://drive.google.com/drive/u/0/folders/1O285nNpevaEXUKaPw6Jg7GdOMaOPt_h6): Movie showing an example peeking event.\
 (1, frames 1--525) the mouse makes initial contact with the robot, retreats and then\
 (2, frames 526-579) peeks before\
 (3, frames 580-576) rerouting and escaping the robot.\
