@@ -27,8 +27,13 @@
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
         <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
       {% endif %}
-      <a href="/" class="btn">Home</a>
+      
+      {% if page.url == "https://cellworld.github.io" %}
       <a href="{{ site.paper_link }}" class="btn">{{ site.paper_link_text }}</a>
+      {% else}
+      <a href="/" class="btn">Home</a>
+      {% endif %}
+
     </header>
 
     <main id="content" class="main-content" role="main">
