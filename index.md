@@ -16,6 +16,7 @@ layout: default
 * Joe Reed - Undergrad Student
 * Joshua Chi - Undergrad Student
 
+<!---
 # Public datasets
 1. [Mus Musculus in mid entropy environment (21_05)](https://www.google.com)
 2. [Mus Musculus and Robot (aversive) in mid entropy environment (21_05)](https://www.google.com)
@@ -23,6 +24,7 @@ layout: default
 4. [Peromyscus Maniculatus in mid entropy environment (21_05)](https://www.google.com)
 5. [Peromyscus Maniculatus and Robot (aversive) in mid entropy environment (21_05)](https://www.google.com)
 6. [Peromyscus Maniculatus environment (00_00)](https://www.google.com)
+-->
 
 # The cellworld Library
 Use the cellworld library to generate new world configurations or open existing ones, explore experimental results, plot results and more.
