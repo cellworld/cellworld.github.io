@@ -30,14 +30,14 @@ This webpage serves as a dedicated platform for the associated research paper, p
 [SM12](https://drive.google.com/drive/u/0/folders/12t4lRwMQPau_KHeDOvpF1YCxWX00uTtZ): Movie of trial in the open field arena with the robot (R phase). The robot shown is not the robot used during the BotEvade task, it is an earlier iteration of the robot.\
 [SM13](https://drive.google.com/drive/u/0/folders/19g3LbPuU8vOAXxF2HX2ZEql4tZQkevDe): Movie of FMM9 during its first experiment session after the robot was removed (PR phase).\
 [SM14](https://drive.google.com/drive/u/0/folders/146Msjds134yZNo1J0-NzFX05HJ8u-lHV): Movie of FMM10 during the R phase. In the trial the mouse has no line of sight with the robot.\
-[SM15-SM24](https://drive.google.com/drive/u/0/folders/1zg8D8DgwM5rZ7P7uSJYOL0JmvQmUrR2N): Hand-selected bait examles.
+[SM15-SM24](https://drive.google.com/drive/u/0/folders/1zg8D8DgwM5rZ7P7uSJYOL0JmvQmUrR2N): Hand-selected bait examles.\
 [SM25](https://drive.google.com/drive/u/0/folders/1EtGqj_ehLoJPu-_GlxpgesdleWX6Azsg): Movie showing an example baiting sequence.\
 (1, frames 1--329) the mouse comes to a point where it is seen by the robot.\
 (2, frames 330--462) The mouse then retreats,\
 (3, frames 463--801) provoking the robot to pursue.\
 (4–-5, frames 802--1006) This retreat-pursue cycle repeats until\
 (6, frames 1007--1190) the robot is close to the start gate, allowing the mouse to outmaneuver the robot.\
-[SM26-SM40](https://drive.google.com/drive/u/0/folders/1E14kDXxN7EU2mBPErM2pGoyYl0deI5zX): Hand-selected peek examples.
+[SM26-SM40](https://drive.google.com/drive/u/0/folders/1E14kDXxN7EU2mBPErM2pGoyYl0deI5zX): Hand-selected peek examples.\
 [SM41](https://drive.google.com/drive/u/0/folders/1O285nNpevaEXUKaPw6Jg7GdOMaOPt_h6): Movie showing an example peeking event.\
 (1, frames 1--525) the mouse makes initial contact with the robot, retreats and then\
 (2, frames 526-579) peeks before\
