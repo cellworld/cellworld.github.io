@@ -54,7 +54,4 @@ result:
 # Presentations of science done with cellworld
 ## Presentation on Nov 1 2023 to the Northwestern Institute on Complex Systems
 
-
-<div style="text-align:center;">
-    <iframe width="100%" height="auto" src="https://www.youtube.com/embed/vINeoZ1Tm1E?si=IxzZ7CnVO0HoTXW9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
+<iframe width="560" height="472" src="https://www.youtube.com/embed/vINeoZ1Tm1E?si=IxzZ7CnVO0HoTXW9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
