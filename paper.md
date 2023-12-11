@@ -6,7 +6,7 @@ layout: default
 This webpage serves as a dedicated platform for the associated research paper, providing essential information and resources.  Here, you will find comprehensive support materials, including experimental platform assembly instructions, figure code, and supplementary movies. 
 
 ## Code to generate figures
-[Figure code](https://colab.research.google.com/drive/1EbFh44LEhl9npWPzdv3WODliqK4Q9_h3?usp=sharing)
+[Figure code](https://colab.research.google.com/drive/1XQse5IhVzUngcO0sqSfA72_A3R13oN_s)
 
 ## Assembly instructions 
 
