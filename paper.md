@@ -3,7 +3,7 @@ layout: default
 ---
 # A robot-rodent interaction arena with adjustable spatial complexity for ethologically relevant behavioral studies
 
-This webpage serves as a dedicated platform for the associated research paper, providing essential information and resources.  Here, you will find comprehensive support materials, including experimental platform assembly instructions, figure code, and supplementary movies. 
+This webpage serves as a dedicated platform for the associated research paper, providing essential information and resources.  Here, you will find comprehensive support materials, including experimental platform assembly instructions, figure code, and supplementary movies. (doi: 10.5281/zenodo.10308436)
 
 ## Code to generate figures
 [Figure code](https://colab.research.google.com/drive/1XQse5IhVzUngcO0sqSfA72_A3R13oN_s)
