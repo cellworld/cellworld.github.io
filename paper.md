@@ -22,15 +22,15 @@ This webpage serves as a dedicated platform for the associated research paper, p
 
 ## Supplementary Movies
 
-[SM1](https://drive.google.com/file/d/15kYQ08wkxQSVNKPTcDjExMeWcO-_lcIr/view?usp=drive_link)  
-[SM2](https://drive.google.com/file/d/1CFKGqN_E3kLcLlZ1kaWFpweNhRsrIOGm/view?usp=drive_link)  
-[SM3](https://drive.google.com/file/d/1hTnazNUwTexS4V1q34gw31Hbr2WWD43k/view?usp=drive_link)  
-[SM4](https://drive.google.com/file/d/1HNPp-ZUfcWcXzqO9hbwgw8Wbi8MzIKxi/view?usp=drive_link)  
-[SM5](https://drive.google.com/file/d/1I4GmLt-zJu317692L_qIAbHeZkEBi_te/view?usp=drive_link)  
-[SM6](https://drive.google.com/file/d/1ITuEYMaQK5Dx2QBWYJRPyuGJCTomNtZU/view?usp=drive_link)  
-[SM7](https://drive.google.com/file/d/1g2lOW1llN4LFSv82--t0fAXqmXnw7gru/view?usp=drive_link)  
-[SM8](https://drive.google.com/file/d/1a2H_GFfH4ybiEwsobWq-ZyZ6sgH7nODA/view?usp=drive_link)  
-[SM9](https://drive.google.com/file/d/1wp97JFy9y6iO8BQkyy7jMH0DEnqbzOoQ/view?usp=drive_link)  
-[SM10](https://drive.google.com/file/d/1kSjvDAjUnCyzDQue56vo5ga-isZFuUMm/view?usp=drive_link)  
+[SM1](https://drive.google.com/file/d/15kYQ08wkxQSVNKPTcDjExMeWcO-_lcIr/view?usp=drive_link): Movie of the aversive airpuff sequence, termed ``attack'' event, delivered by the airpuff module. Green timer in background to illustrate event duration.\
+[SM2](https://drive.google.com/file/d/1CFKGqN_E3kLcLlZ1kaWFpweNhRsrIOGm/view?usp=drive_link): Movie of FMM13 fleeing from the robot following an prey enters arena'' experiment event is triggered and the robot begins autonomous motion. Cyan dot indicates the mouse's location.\
+[SM3](https://drive.google.com/file/d/1hTnazNUwTexS4V1q34gw31Hbr2WWD43k/view?usp=drive_link): Movie of FMM16 during pilot study where mice first interacted with a pursuing robot with airpuff disabled for two sessions. This movie shows the mouse's first experimental session with the puff enabled.\
+[SM4](https://drive.google.com/file/d/1HNPp-ZUfcWcXzqO9hbwgw8Wbi8MzIKxi/view?usp=drive_link): Movie of MMM16 during pilot study with airpuff disabled.\
+[SM5](https://drive.google.com/file/d/1I4GmLt-zJu317692L_qIAbHeZkEBi_te/view?usp=drive_link)\
+[SM6](https://drive.google.com/file/d/1ITuEYMaQK5Dx2QBWYJRPyuGJCTomNtZU/view?usp=drive_link)\  
+[SM7](https://drive.google.com/file/d/1g2lOW1llN4LFSv82--t0fAXqmXnw7gru/view?usp=drive_link)\  
+[SM8](https://drive.google.com/file/d/1a2H_GFfH4ybiEwsobWq-ZyZ6sgH7nODA/view?usp=drive_link):  Hand-selected bait examle.\  
+[SM9](https://drive.google.com/file/d/1wp97JFy9y6iO8BQkyy7jMH0DEnqbzOoQ/view?usp=drive_link): Hand-selected peek example.\  
+[SM10](https://drive.google.com/file/d/1kSjvDAjUnCyzDQue56vo5ga-isZFuUMm/view?usp=drive_link): To determine the effect on the mouse of suddenly changing the robot's behavior, this is a movie of a trial where the robot was turned off in the middle. In this trial, the mouse engages an extended sequence of peeks and reroutes as it surveys the now stationary robot.\  
 
 
