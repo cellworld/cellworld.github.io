@@ -18,6 +18,8 @@ This webpage serves as a dedicated platform for the associated research paper, p
 
 [Software as published](https://github.com/cellworld/cellworld_methods_Cell_Reports)
 
+[Cellworld zenodo archive](https://doi.org/10.5281/zenodo.10308436)
+
 [Current version of software](https://github.com/cellworld)
 
 ## Supplementary Movies
