@@ -16,9 +16,9 @@ This webpage serves as a dedicated platform for the associated research paper, p
 
 ## Cellworld system software
 
-[Software as published](https://github.com/cellworld/cellworld_methods_Cell_Reports/releases/tag/CellReports_2023_V3)
+[Software as published](https://github.com/cellworld/cellworld_methods_Cell_Reports)
 
-[Current version of software](https://github.com/cellworld/cellworld_methods_Cell_Reports)
+[Current version of software](https://github.com/cellworld)
 
 ## Supplementary Movies
 
