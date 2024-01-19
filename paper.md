@@ -5,6 +5,8 @@ layout: default
 
 This webpage serves as a dedicated platform for the associated research paper, providing essential information and resources.  Here, you will find comprehensive support materials, including experimental platform assembly instructions, figure code, and supplementary movies. 
 
+[Zenodo archive with additional supplemental bating and peeking videos, data, and software](https://doi.org/10.5281/zenodo.10308436)
+
 ## Code to generate figures
 [Figure code](https://colab.research.google.com/drive/1XQse5IhVzUngcO0sqSfA72_A3R13oN_s)
 
@@ -17,8 +19,6 @@ This webpage serves as a dedicated platform for the associated research paper, p
 ## Cellworld system software
 
 [Software as published](https://github.com/cellworld/cellworld_methods_Cell_Reports)
-
-[Cellworld zenodo archive](https://doi.org/10.5281/zenodo.10308436)
 
 [Current version of software](https://github.com/cellworld)
 
