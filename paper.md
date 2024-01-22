@@ -40,14 +40,15 @@ of the robot.
 ## Additional Movies
 hand-selected baiting trials: 
 [bait 1](https://drive.google.com/file/d/1xqAcACRE8Epe_tkjJZIVoMsiXhiEgTix/view?usp=drive_link),
-[bait 2]()
-[bait 3]()
-[bait 4]()
-[bait 5]()
-[bait 6]()
-[bait 7]()
-[bait 8]()
-[bait 9]()
-[bait 10]()
+[bait 2](https://drive.google.com/file/d/19_JMtEkDhKWE3OMEj9GZ_3kypgnRWoGu/view?usp=drive_link),
+[bait 3](https://drive.google.com/file/d/1umIsHTe7Y2AIUhnY2wDvUrrb1iW2jTPD/view?usp=drive_link),
+[bait 4](https://drive.google.com/file/d/1LfJn5Qr90TYEAhsYlGQ9vt28iLYAuYQy/view?usp=drive_link),
+[bait 5](https://drive.google.com/file/d/19FGqh2I9GfBb4cI1PjU43GsiM6al0lTL/view?usp=drive_link),
+[bait 6](https://drive.google.com/file/d/1Lku3I09aIRP2oLt77qmZ1DWj47fxXYfF/view?usp=drive_link),
+[bait 7](https://drive.google.com/file/d/1FlJM0WHxpAxLBqjTPFJqyPYCZ0IjeOCo/view?usp=drive_link),
+[bait 8](https://drive.google.com/file/d/1b5wqWPdpfVYMtawSb5LsR1lLe1KrOxd4/view?usp=drive_link),
+[bait 9](https://drive.google.com/file/d/1ktO7j5lwiCYvh783-YKy0ANFPsk6WKoa/view?usp=drive_link),
+[bait 10](https://drive.google.com/file/d/12mGKSz3TDoQRfJFjUZbmbXCliqKFQct6/view?usp=drive_link)
 
-hand-selected peeking trials: 
+hand-selected peeking trials:
+[peek 1]()
