@@ -51,4 +51,13 @@ hand-selected baiting trials:
 [bait 10](https://drive.google.com/file/d/12mGKSz3TDoQRfJFjUZbmbXCliqKFQct6/view?usp=drive_link)
 
 hand-selected peeking trials:
-[peek 1]()
+[Peeking R example 01](),
+[Peeking R example 02](),
+[Peeking R example 03](),
+[Peeking R example 04](),
+[Peeking R example 05](),
+[Peeking R example 06](),
+[Peeking R example 07](),
+[Peeking R example 08](),
+[Peeking R example 09](),
+[Peeking R example 10](),
