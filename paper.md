@@ -38,11 +38,11 @@ of the robot.
 [SM10](https://drive.google.com/file/d/1kSjvDAjUnCyzDQue56vo5ga-isZFuUMm/view?usp=drive_link): To determine the effect on the mouse of suddenly changing the robot's behavior, this is a movie of a trial where the robot was turned off in the middle. In this trial, the mouse engages an extended sequence of peeks and reroutes as it surveys the now stationary robot.
 
 ## Additional Movies
-hand-selected baiting trials: 
+Hand-selected baiting trials: 
 [Baiting example 01](https://drive.google.com/file/d/1xqAcACRE8Epe_tkjJZIVoMsiXhiEgTix/view?usp=drive_link),
 [Baiting example 02](https://drive.google.com/file/d/19_JMtEkDhKWE3OMEj9GZ_3kypgnRWoGu/view?usp=drive_link),
-[Baiting example 03](https://drive.google.com/file/d/1umIsHTe7Y2AIUhnY2wDvUrrb1iW2jTPD/view?usp=drive_link),
-[Baiting example 04](https://drive.google.com/file/d/1LfJn5Qr90TYEAhsYlGQ9vt28iLYAuYQy/view?usp=drive_link),   
+[Baiting example 03](https://drive.google.com/file/d/1umIsHTe7Y2AIUhnY2wDvUrrb1iW2jTPD/view?usp=drive_link),  
+[Baiting example 04](https://drive.google.com/file/d/1LfJn5Qr90TYEAhsYlGQ9vt28iLYAuYQy/view?usp=drive_link), 
 [Baiting example 05](https://drive.google.com/file/d/19FGqh2I9GfBb4cI1PjU43GsiM6al0lTL/view?usp=drive_link),
 [Baiting example 06](https://drive.google.com/file/d/1Lku3I09aIRP2oLt77qmZ1DWj47fxXYfF/view?usp=drive_link),
 [Baiting example 07](https://drive.google.com/file/d/1FlJM0WHxpAxLBqjTPFJqyPYCZ0IjeOCo/view?usp=drive_link),
@@ -50,18 +50,18 @@ hand-selected baiting trials:
 [Baiting example 09](https://drive.google.com/file/d/1ktO7j5lwiCYvh783-YKy0ANFPsk6WKoa/view?usp=drive_link),
 [Baiting example 10](https://drive.google.com/file/d/12mGKSz3TDoQRfJFjUZbmbXCliqKFQct6/view?usp=drive_link)
 
-hand-selected peeking trials:
+Hand-selected peeking trials:
 [Peeking R example 01](https://drive.google.com/file/d/1CtstpFcKw1e_bGbMuG9RhDcW-lnTJBhU/view?usp=drive_link),
 [Peeking R example 02](https://drive.google.com/file/d/1Cuybs67eZWFv4pUpqjsbE3MEoXMD2hse/view?usp=drive_link),
-[Peeking R example 03](https://drive.google.com/file/d/1D3PZWN7Rnz4n-5r9MyKd9CKAFwrR-BfJ/view?usp=drive_link),
+[Peeking R example 03](https://drive.google.com/file/d/1D3PZWN7Rnz4n-5r9MyKd9CKAFwrR-BfJ/view?usp=drive_link),  
 [Peeking R example 04](https://drive.google.com/file/d/1CxwrJpOwY0CDKImBWqWn48-HxntsMqim/view?usp=drive_link),
 [Peeking R example 05](https://drive.google.com/file/d/1D4sQ2NQu6HcQZNY5snizhzaizkbkvEH3/view?usp=drive_link),
 [Peeking R example 06](https://drive.google.com/file/d/1D820k9gtfVsrH2VZWGBY4p2tUCofsC6J/view?usp=drive_link),
-[Peeking R example 07](https://drive.google.com/file/d/1DE1_0ezA1afaWahGJtmioMTWQiQPRjM2/view?usp=drive_link),
+[Peeking R example 07](https://drive.google.com/file/d/1DE1_0ezA1afaWahGJtmioMTWQiQPRjM2/view?usp=drive_link),  
 [Peeking R example 08](https://drive.google.com/file/d/1DFNINl7bYIti1yhzQtmzLW2ypsG7ME3y/view?usp=drive_link),
 [Peeking R example 09](https://drive.google.com/file/d/1DMpz_or6fctGEGNx0LWUvWgCqc3feHfr/view?usp=drive_link),
 [Peeking R example 10](https://drive.google.com/file/d/1DVF-Ccn9dfIcpvFkhRjkywfrAUd1GaDX/view?usp=drive_link),
-[Peeking PR example 01](https://drive.google.com/file/d/1DbTW91NXLAuByBZpeepkvT1u1fArNhMO/view?usp=drive_link),
+[Peeking PR example 01](https://drive.google.com/file/d/1DbTW91NXLAuByBZpeepkvT1u1fArNhMO/view?usp=drive_link),  
 [Peeking PR example 02](https://drive.google.com/file/d/1D_m5R6VUJjVCxNg2mr5RwxgDnF6LXcuu/view?usp=drive_link),
 [Peeking PR example 03](https://drive.google.com/file/d/1Ds4xuUQny11xWsW3vjc_ZV402Fqc1rWg/view?usp=drive_link),
 [Peeking PR example 04](https://drive.google.com/file/d/1DjG-S2eLDT5BT88gD4s7XVpwmoeio4wA/view?usp=drive_link),
