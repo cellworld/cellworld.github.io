@@ -285,4 +285,6 @@ To ensure that the camera view is calibrated to the arena coordinates, our syste
 
         -hc new
 
+    c. **TODO**: add descriptions of other program arguments
+
 4. To run agent_tracker, press the run button. If everything functions correctly, a video window with the video stream will pop up.
