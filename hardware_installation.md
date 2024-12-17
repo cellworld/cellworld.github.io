@@ -210,11 +210,11 @@ Ubuntu 22.04.1 (requires kernel < 6.8 -- we have used 5.15.0-43-generic successf
 
 8. For Hab 2.0 (Neuropixels setup): to increase performance, we customize the ROIs captured by the cameras using the following procedure for each camera:
 
-        a. Under the Res tab, click Set Video Window.
-
-        b. Apply desired width, height and x,y offset. As of this writing, we are using 1640 width and 1550 height in hab2.
-
-        c. Adjust xy offset as necessary so the ROI does not cut off the edges of the inner arena wall.
+    a. Under the Res tab, click Set Video Window.
+    
+    b. Apply desired width, height and x,y offset. As of this writing, we are using 1640 width and 1550 height in hab2.
+    
+    c. Adjust xy offset as necessary so the ROI does not cut off the edges of the inner arena wall.
 
 ## Agent Tracker Installation
 
