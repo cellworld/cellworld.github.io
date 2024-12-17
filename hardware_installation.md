@@ -208,6 +208,14 @@ Ubuntu 22.04.1 (requires kernel < 6.8 -- we have used 5.15.0-43-generic successf
 
 7. Repeat for all cameras until images are good and framerate is near 120FPS.
 
+8. For Hab 2.0 (Neuropixels setup): to increase performance, we customize the ROIs captured by the cameras using the following procedure for each camera:
+
+        a. Under the Res tab, click Set Video Window.
+
+        b. Apply desired width, height and x,y offset. As of this writing, we are using 1640 width and 1550 height in hab2.
+
+        c. Adjust xy offset as necessary so the ROI does not cut off the edges of the inner arena wall.
+
 ## Agent Tracker Installation
 
 (can also be found [here](https://drive.google.com/drive/folders/14y1hyg6ethvXalvqckkChWj2zbwmM0BH))
@@ -267,8 +275,6 @@ Ubuntu 22.04.1 (requires kernel < 6.8 -- we have used 5.15.0-43-generic successf
 
 ## TODO: Homography
 To ensure that the camera view is calibrated to the arena coordinates, our system requires a homography procedure to later warp the image to a flat perspective during image processing. Procedure follows:
-
-
 
 ## Testing Agent Tracker
 1. To test whether the build worked, it is first necessary to specify a camera configuration. To do so, make sure the settings in xcap are correct, then copy the xcap settings to the config directory of the project (replace "NEW" with desired name).
