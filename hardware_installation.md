@@ -273,24 +273,62 @@ Ubuntu 22.04.1 (requires kernel < 6.8 -- we have used 5.15.0-43-generic successf
         cmake .. -DUSE_CUDA=ON -DCONNECT_ALL_DEPENDENCIES=ON -DUSE_FAKE_CAMERA=OFF -DUSE_MCP2221=OFF
         make -j 8 
 
-## TODO: Homography
-To ensure that the camera view is calibrated to the arena coordinates, our system requires a homography procedure to later warp the image to a flat perspective during image processing. Procedure follows:
-
-## Testing Agent Tracker
-1. To test whether the build worked, it is first necessary to specify a camera configuration. To do so, make sure the settings in xcap are correct, then copy the xcap settings to the config directory of the project (replace "NEW" with desired name).
+## Homography
+To ensure that the camera view is calibrated to the arena coordinates, our system requires a homography procedure to later warp the image to a flat perspective during image processing. To run homography, do the following:
+1. To test whether the build worked, it is first necessary to specify a camera configuration. To do so, make sure the settings in xcap are correct, then copy the xcap settings to the config directory of the project (replace "new" with desired name).
 
         cp /usr/local/xcap/settings/xcvidset.fmt EPIX_new.fmt
 
-2. If homography has not been created, follow instructions to create a homography file that will be paired with the camera config file. **TODO**
+2. Create a run configuration for `camera_config.cpp` that references the camera configuration.
 
-3. Create a run configuration if using CLion.
+    a. Click on the drop down for `camera_config`, click Edit Configurations.
+
+    b. Under program arguments, minimally provide the PIXCI configuration filename in the config directory of the project (if you named your config file "EPIX_new.fmt", provide "new"):
+
+        -pc new
+
+3. Try to run the camera config script. If it fails to run, follow the instructions below, otherwise skip to step 4.
+
+    a. If `camera_config` hangs indefinitely, make sure there was not a typo in the PIXCI configuration input, and make sure the file you are referencing exists.
+
+    b. If `camera_config` throws a CUDA error, run `./fix_pixci_drivers`. If this doesn't resolve the error, there is a bug in the camera layouts that is different between certain habitats. To resolve this bug, go to `cellworld_habitat_cv/src
+/layouts.cpp` and find the definition for `Raw_layout`. It should be the following (note the panel numbers):
+
+        Raw_layout::Raw_layout() :
+        Layout(1080, 1180, Image::Type::gray),
+        panel0({590, 540}, Image::Type::gray),
+        panel1({590, 540}, Image::Type::gray),
+        panel2({590, 540}, Image::Type::gray),
+        panel3({590, 540}, Image::Type::gray) {
+        add_place_holder(panel0, {0, 0});
+        add_place_holder(panel1, {590, 0});
+        add_place_holder(panel2, {0, 540});
+        add_place_holder(panel3, {590, 540});
+        }
+
+4. If `camera_config` started successfully, you should see a display with the 4 cameras. Select the live feed and press `h` to start homography. For each camera:
+
+    a. First confirm the camera position based on the numbered layout in the terminal. If camera position matches the number in the layout press space, otherwise press the appropriate number and enter to assign a new position.
+
+    b. Next, adjust each of the following markers to the precise center of the correct cell in the camera feed. You can click to move the marker, then use the WASD keys for fine adjustment. When you are satisfied, press enter to continue to the next marker.
+
+    c. If sync is enabled, it will also provide a marker for the LEDs.
+
+    d. When finished with each camera, press Y to continue to the next camera. Complete the homography for all 4 cameras.
+
+5. Once homography is complete, press `s` to save the file. In the terminal window, type a useful filename, such as `hab3_250326` and press enter to save. You can preview the new homography layout by pressing `tab`.
+
+## Testing Agent Tracker
+1. Create a habitat configuration file by performing homography above.
+
+2. Create a run configuration for `agent_tracker` if using CLion.
 
     a. Click on the drop down corresponding to the desired build, click Edit Configurations.
 
-    b. Under program arguments, minimally provide the habitat configuration parameter (if you named your config file "EPIX_new.fmt", provide "new"):
+    b. Under program arguments, minimally provide the habitat configuration parameter (if you named your config file "hab3_250326"):
 
-        -hc new
+        -hc hab3_250326
 
     c. **TODO**: add descriptions of other program arguments
 
-4. To run agent_tracker, press the run button. If everything functions correctly, a video window with the video stream will pop up.
+3. To run agent_tracker, press the run button. If everything functions correctly, a video window with the video stream will pop up.
