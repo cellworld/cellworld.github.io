@@ -13,7 +13,7 @@ description: Details on system requirements and hardware/software install.
 6. [PIXCI Installation](#pixci-installation)
 7. [Camera Setup](#camera-setup)
 8. [Agent Tracker Installation](#agent-tracker-installation)
-9. [TODO: Homography](#todo-homography)
+9. [Homography](#todo-homography)
 10. [Testing Agent Tracker](#testing-agent-tracker)
 
 ## Hardware Requirements
