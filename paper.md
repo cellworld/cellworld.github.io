@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# A robot-rodent interaction arena with adjustable spatial complexity for ethologically relevant behavioral studies
+# An robot-rodent interaction arena with adjustable spatial complexity for ethologically relevant behavioral studies
 
 This webpage serves as a dedicated platform for the associated research paper, providing essential information and resources.  Here, you will find comprehensive support materials, including experimental platform assembly instructions, figure code, and supplementary movies. 
 
