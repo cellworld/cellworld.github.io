@@ -53,12 +53,12 @@ result:
 
 # Hardware Assembly and Installation Instructions
 
-# robot_assembly_link: https://github.com/cellworld/robot_assembly
-# robot_assembly_link_text: Robot Assembly
-# arena_assembly_link: https://github.com/cellworld/arena_assembly
 [Arena Assembly](https://github.com/cellworld/arena_assembly)
+
 [Robot Assembly](https://github.com/cellworld/robot_assembly)
+
 [Vision System Installation]({% link hardware_installation.md %})
+
 [Oasis Software Installation]({% link oasis_setup.md %})
 
 # Presentations of science done with cellworld
