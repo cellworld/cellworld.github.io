@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hardware and Installation Instructions
-description: Details on system requirements and hardware/software install.
+description: Vision System Hardware and Installation
 ---
 
 ## Table of Contents

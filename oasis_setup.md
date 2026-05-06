@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Oasis Software Setup Instructions
-description: Details for setting up a new oasis from scratch.
+description: Oasis Software Setup Instructions
 ---
 
 ## Table of Contents
@@ -16,7 +16,9 @@ description: Details for setting up a new oasis from scratch.
 
 ## Flash Image
 
-1. Flash the oasis201 image to a black 64GB SD card using Etcher or Win32 Disk Imager.
+1. Download the oasis201 image from the lab [google drive](https://drive.google.com/drive/u/0/folders/1BG0I_dm2JzCSMFcGO7WA8y0n1dVrUQpe).
+
+2. Flash the oasis201 image to a 64GB SD card using Etcher or Win32 Disk Imager.
 
 ## Initial SSH Connection
 
